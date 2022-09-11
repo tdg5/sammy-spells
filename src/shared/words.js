@@ -50,5 +50,44 @@ export const words = [
   }, {
     imagePath: '/images/words/shoe.png',
     name: 'shoe',
+  }, {
+    imagePath: '/images/words/apple.png',
+    name: 'apple',
+  }, {
+    imagePath: '/images/words/banana.png',
+    name: 'banana',
+  }, {
+    imagePath: '/images/words/bike.png',
+    name: 'bike',
+  }, {
+    imagePath: '/images/words/bread.png',
+    name: 'bread',
+  }, {
+    imagePath: '/images/words/egg.png',
+    name: 'egg',
+  }, {
+    imagePath: '/images/words/flour.png',
+    name: 'flour',
+  }, {
+    imagePath: '/images/words/fork.png',
+    name: 'fork',
+  }, {
+    imagePath: '/images/words/house.png',
+    name: 'house',
+  }, {
+    imagePath: '/images/words/peas.png',
+    name: 'peas',
+  }, {
+    imagePath: '/images/words/pepper.png',
+    name: 'pepper',
+  }, {
+    imagePath: '/images/words/pool.png',
+    name: 'pool',
+  }, {
+    imagePath: '/images/words/potato.png',
+    name: 'potato',
+  }, {
+    imagePath: '/images/words/salt.png',
+    name: 'salt',
   },
 ];
